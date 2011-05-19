@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+Swift.xs
+typemap
+t/Speech-Swift.t
+lib/Speech/Swift.pm
